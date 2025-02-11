@@ -1,2 +1,2 @@
-# libreria-pt.github.io
-Website used to present a project for a networking class.
+# libreriapt
+Sito web utilizzato per la presentazione del progetto finale del corso di reti.
